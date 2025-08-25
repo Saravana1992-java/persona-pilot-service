@@ -1,0 +1,8 @@
+env/
+.terraform
+.idea/
+.scannerwork
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
